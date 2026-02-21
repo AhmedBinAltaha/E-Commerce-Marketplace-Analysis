@@ -82,16 +82,16 @@ The dashboards include:
 ![KPI Dashboard](images/1.PNG)
 
 ### 🔹 RFM Analysis Dashboard  
-![RFM Dashboard](images/2.PNG)
+![RFM Dashboard](images/3.PNG)
 
 ### 🔹 Cohort Analysis  
-![Cohort Analysis](images/3.PNG)
+![Cohort Analysis](images/5.PNG)
 
 ### 🔹 Orders & Segments  
-![Orders Dashboard](images/4.PNG)
+![Orders Dashboard](images/2.PNG)
 
 ### 🔹 Active Customers Map  
-![Map Dashboard](images/5.PNG)
+![Map Dashboard](images/4.PNG)
 
 ---
 
