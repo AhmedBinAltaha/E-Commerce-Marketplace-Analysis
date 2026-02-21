@@ -76,7 +76,6 @@ The dashboards include:
 
 ## 🖼 Dashboard Screenshots
 
-> Place dashboard images inside the `images/` folder and reference them as follows:
 
 ### 🔹 Overall KPI Dashboard  
 ![KPI Dashboard](images/1.PNG)
