@@ -100,9 +100,9 @@ The dashboards include:
 ├── data/
 │   └── sales.csv
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── E-Commerce Marketplace Analysis.ipynb
 ├── dashboards/
-│   └── powerbi.pbix
+│   └── final.pbix
 ├── images/
 │   ├── 1.PNG
 │   ├── 2.PNG
